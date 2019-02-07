@@ -1,0 +1,39 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.12.14)  19 JAN 2016 08:46
+entering extended mode
+**"C:/Users/Tiago Gomes/OneDrive/Tcc/latex/tex/Resultados.tex"
+("C:/Users/Tiago Gomes/OneDrive/Tcc/latex/tex/Resultados.tex"
+LaTeX2e <2015/01/01> patch level 2
+Babel <3.9m> and hyphenation patterns for 69 languages loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\subfiles\subfiles.cls"
+Document Class: subfiles 2012/05/23 Federico Garcia
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks14
+\verbatim@line=\toks15
+\verbatim@in@stream=\read1
+)
+Preamble taken from file `monografia'
+
+! LaTeX Error: File `monografia.tex' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: tex)
+
+Enter file name: 
+! Emergency stop.
+<read *> 
+         
+l.40 \input{\preamble@file}
+                           
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 52 strings out of 493673
+ 1142 string characters out of 3141509
+ 52455 words of memory out of 3000000
+ 3489 multiletter control sequences out of 15000+200000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 18i,0n,17p,215b,16s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!

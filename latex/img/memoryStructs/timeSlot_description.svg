@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="10cm" height="22cm" viewBox="515 59 182 434" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="536" y="60" width="80" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="536" y="60" width="80" height="36"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="616" y="60" width="40" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="616" y="60" width="40" height="36"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="656" y="60" width="40" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="656" y="60" width="40" height="36"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="536" y="96" width="80" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="536" y="96" width="80" height="36"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="616" y="96" width="80" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="616" y="96" width="80" height="36"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="536" y="132" width="80" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="536" y="132" width="80" height="36"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="616" y="132" width="80" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="616" y="132" width="80" height="36"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="536" y="168" width="80" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="536" y="168" width="80" height="36"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="616" y="168" width="40" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="616" y="168" width="40" height="36"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="656" y="168" width="40" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="656" y="168" width="40" height="36"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="536" y="204" width="160" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="536" y="204" width="160" height="36"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="516" y="60" width="20" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="516" y="60" width="20" height="36"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="516" y="96" width="20" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="516" y="96" width="20" height="36"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="516" y="132" width="20" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="516" y="132" width="20" height="36"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="516" y="168" width="20" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="516" y="168" width="20" height="36"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="516" y="204" width="20" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="516" y="204" width="20" height="36"/>
+  </g>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="526" y="81.125">
+    <tspan x="526" y="81.125">0</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="524" y="140">
+    <tspan x="524" y="140"></tspan>
+  </text>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="526" y="117.125">
+    <tspan x="526" y="117.125">1</tspan>
+  </text>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="526" y="153.125">
+    <tspan x="526" y="153.125">2</tspan>
+  </text>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="526" y="189.125">
+    <tspan x="526" y="189.125">3</tspan>
+  </text>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="526" y="225.125">
+    <tspan x="526" y="225.125">4</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="536" y="240" width="160" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="536" y="240" width="160" height="36"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="516" y="240" width="20" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="516" y="240" width="20" height="36"/>
+  </g>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="526" y="261.006">
+    <tspan x="526" y="261.006">5</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="536" y="276" width="160" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="536" y="276" width="160" height="36"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="516" y="276" width="20" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="516" y="276" width="20" height="36"/>
+  </g>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="526" y="297.006">
+    <tspan x="526" y="297.006">6</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="536" y="312" width="160" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="536" y="312" width="160" height="36"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="516" y="312" width="20" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="516" y="312" width="20" height="36"/>
+  </g>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="526" y="333.006">
+    <tspan x="526" y="333.006">7</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="536" y="348" width="160" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="536" y="348" width="160" height="36"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="516" y="348" width="20" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="516" y="348" width="20" height="36"/>
+  </g>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="526" y="369.006">
+    <tspan x="526" y="369.006">8</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="536" y="384" width="160" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="536" y="384" width="160" height="36"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="516" y="384" width="20" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="516" y="384" width="20" height="36"/>
+  </g>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="526" y="405.006">
+    <tspan x="526" y="405.006">9</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="536" y="420" width="160" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="536" y="420" width="160" height="36"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="516" y="420" width="20" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="516" y="420" width="20" height="36"/>
+  </g>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="526" y="441.006">
+    <tspan x="526" y="441.006">10</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="516" y="456" width="20" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="516" y="456" width="20" height="36"/>
+  </g>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="526" y="477.006">
+    <tspan x="526" y="477.006">11</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="536" y="456" width="80" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="536" y="456" width="80" height="36"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="616" y="456" width="80" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="616" y="456" width="80" height="36"/>
+  </g>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="576" y="71.1278">
+    <tspan x="576" y="71.1278">Counter </tspan>
+    <tspan x="576" y="81.0056">of </tspan>
+    <tspan x="576" y="90.8834">Samples</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="636" y="78">
+    <tspan x="636" y="78"></tspan>
+  </text>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="636" y="71.1278">
+    <tspan x="636" y="71.1278">Flag</tspan>
+    <tspan x="636" y="81.0056">Msg</tspan>
+    <tspan x="636" y="90.8834">Sent</tspan>
+  </text>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="676" y="81.0056">
+    <tspan x="676" y="81.0056">State</tspan>
+  </text>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="576" y="112.067">
+    <tspan x="576" y="112.067">Max</tspan>
+    <tspan x="576" y="121.945">Pulse</tspan>
+  </text>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="616" y="261.006">
+    <tspan x="616" y="261.006">Coeff1</tspan>
+  </text>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="656" y="112.067">
+    <tspan x="656" y="112.067">Min</tspan>
+    <tspan x="656" y="121.945">Pulse</tspan>
+  </text>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="576" y="148.067">
+    <tspan x="576" y="148.067">Max</tspan>
+    <tspan x="576" y="157.945">Pause</tspan>
+  </text>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="656" y="148.067">
+    <tspan x="656" y="148.067">Min</tspan>
+    <tspan x="656" y="157.945">Pause</tspan>
+  </text>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="616" y="225.006">
+    <tspan x="616" y="225.006">Threshold</tspan>
+  </text>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="676" y="189.006">
+    <tspan x="676" y="189.006">Cadence</tspan>
+  </text>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="576" y="189.006">
+    <tspan x="576" y="189.006">Attenuation</tspan>
+  </text>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="636" y="184.067">
+    <tspan x="636" y="184.067">Cnt</tspan>
+    <tspan x="636" y="193.945">Cadence</tspan>
+  </text>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="616" y="436.067">
+    <tspan x="616" y="436.067">Sample(-2)</tspan>
+    <tspan x="616" y="445.945">Coeff2</tspan>
+  </text>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="616" y="400.067">
+    <tspan x="616" y="400.067">Sample(-1)</tspan>
+    <tspan x="616" y="409.945">Coeff2</tspan>
+  </text>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="616" y="364.067">
+    <tspan x="616" y="364.067">Sample(-2)</tspan>
+    <tspan x="616" y="373.945">Coeff1</tspan>
+  </text>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="616" y="328.067">
+    <tspan x="616" y="328.067">Sample(-1)</tspan>
+    <tspan x="616" y="337.945">Coeff1</tspan>
+  </text>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="616" y="297.006">
+    <tspan x="616" y="297.006">Coeff2</tspan>
+  </text>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="656" y="472.067">
+    <tspan x="656" y="472.067">Cnt</tspan>
+    <tspan x="656" y="481.945">Pause</tspan>
+  </text>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="576" y="472.067">
+    <tspan x="576" y="472.067">Cnt</tspan>
+    <tspan x="576" y="481.945">Pulse</tspan>
+  </text>
+</svg>

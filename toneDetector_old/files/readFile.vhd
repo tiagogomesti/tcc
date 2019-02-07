@@ -1,0 +1,103 @@
+----------------------------------------------------------------------------------
+-- Company: 
+-- Engineer: 
+-- 
+-- Create Date:    11:04:10 02/26/2015 
+-- Design Name: 
+-- Module Name:    readFile - readFile 
+-- Project Name: 
+-- Target Devices: 
+-- Tool versions: 
+-- Description: 
+--
+-- Dependencies: 
+--
+-- Revision: 
+-- Revision 0.01 - File Created
+-- Additional Comments: 
+--
+----------------------------------------------------------------------------------
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+use IEEE.NUMERIC_STD.ALL;
+use work.toneDetectorPackage.all;
+-- use std.textio.all;
+
+
+
+entity readFile is
+generic 
+(	channel_index							: integer range 0 to NUM_CH-1 );
+
+port
+(
+	RST												: in std_logic;
+	CLK												: in std_logic;	 -- 8 KHz
+
+	FRAME											: out PCM_TYPE
+);
+end readFile;
+
+architecture readFile of readFile is
+
+	constant num_char_of_index : integer := channel_index/10 + 1;
+	constant timeSlot_string : string := "..\\in_files\\timeSlot_";
+	-- constant timeSlot_string : string := "timeSlot_";
+	constant wav_extension	: string := ".wav";
+
+	constant length_string : integer 
+			:= num_char_of_index + timeSlot_string'length + wav_extension'length;
+	
+	constant pathString: string := timeSlot_string & integer'image(channel_index) & wav_extension;
+
+--=======================================================================--
+
+	type wordFileType is file of character;
+		file timeSlot : wordFileType open read_mode is pathString;	
+
+	signal readHeaderEnd: std_logic := '0';
+	
+
+--=======================================================================--
+begin
+	
+	readProcess: process (CLK,RST)
+		variable frame_char_v 	: character;
+		variable frame_int_v 		: integer;
+
+	begin
+		if (RST = '0') then
+			if (CLK'event and CLK='1') then		
+				if (not endfile(timeSlot) ) then
+					read(timeSlot, frame_char_v);
+					frame_int_v := character'pos(frame_char_v);
+					FRAME(7 downto 0) <= to_unsigned(frame_int_v,8);
+
+					read(timeSlot, frame_char_v);
+					frame_int_v := character'pos(frame_char_v);
+					FRAME(15 downto 8) <= to_unsigned(frame_int_v,8);
+
+				else
+					FRAME <= x"EA80";
+				
+				end if;
+			end if;
+
+		else
+			FRAME <= x"EA80";
+			if (readHeaderEnd = '0') then
+				for i in 0 to LENGTH_HEADER_WAV-1 loop
+					read(timeSlot, frame_char_v);
+					read(timeSlot, frame_char_v);
+				end loop;
+
+				readHeaderEnd <= '1';				
+
+			end if;
+
+
+		end if;		
+	end process;
+
+end readFile;
+

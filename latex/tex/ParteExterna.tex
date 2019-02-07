@@ -1,0 +1,11 @@
+\documentclass[monografia.tex]{subfiles}
+
+\begin{document}
+ 
+\subfile{tex/Capa}
+
+\ifthenelse{\boolean{todosOpcionais}\or\boolean{lombada}}{
+	\subfile{tex/Lombada}
+}
+
+\end{document}

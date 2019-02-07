@@ -1,0 +1,41 @@
+\documentclass[monografia]{subfiles}
+
+\begin{document}
+	\chapter{Materiais e Métodos}
+
+	Em Figura~\ref{fig:brasao} na página~\pageref{fig:brasao} temos um 
+	exemplo de inserção de uma ilustração com título e fonte.
+	% e esse é um exemplo de referência para uma ilustração e sua página
+
+	\begin{figure}[htb]
+		\centering
+		\caption{O brasão da UFC}
+		\includegraphics[width=4cm]{ufc.png}
+		\label{fig:brasao}
+		\fonte{Elaborada pelos autores.}
+		%\nota{Esta é uma nota, que diz que os dados são baseados na regressão linear.}
+		%\nota[Anotações]{Uma anotação adicional, seguida de várias outras.}
+	\end{figure}
+
+
+	\begin{table}[htb] 
+		\IBGEtab
+		{
+			\caption{Um Exemplo de tabela alinhada que pode ser longa ou curta, conforme padrão IBGE.}
+			\label{tab:ibge}
+		}
+		{ 
+			\begin{tabular}{ccc} \toprule 
+				Nome & Nascimento & Documento \\ \midrule \midrule 
+				Maria da Silva & 11/11/1111 & 111.111.111-11 \\ \bottomrule 
+			\end{tabular}
+		}
+		{
+			\fonte{Produzido pelos autores.}
+			%\nota{Esta é uma nota, que diz que os dados são baseados na regressão linear.}
+			%\nota[Anotações]{Uma anotação adicional, seguida de várias outras.}
+		} 
+	\end{table}
+
+	Em Tabela~\ref{tab:ibge} temos um exemplo de tabela seguindo o padrão do IBGE.
+\end{document}

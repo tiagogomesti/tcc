@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="36cm" height="12cm" viewBox="431 187 705 237" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <ellipse style="fill: #000000" cx="442" cy="257.542" rx="10" ry="10"/>
+    <g>
+      <rect style="fill: #d8e5e5" x="496" y="238.36" width="80" height="38.3444" rx="10" ry="10"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="496" y="238.36" width="80" height="38.3444" rx="10" ry="10"/>
+      <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="536" y="255.71">
+        <tspan x="536" y="255.71"></tspan>
+      </text>
+      <text font-size="7.33778" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="506" y="264.882">do/ Reset Signals</text>
+      <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="496" y1="257.532" x2="576" y2="257.532"/>
+    </g>
+    <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="536" y="245.71">
+      <tspan x="536" y="245.71">S0</tspan>
+    </text>
+    <g>
+      <rect style="fill: #d8e5e5" x="621.338" y="242.912" width="80" height="29.1722" rx="10" ry="10"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="621.338" y="242.912" width="80" height="29.1722" rx="10" ry="10"/>
+      <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="661.338" y="260.262">
+        <tspan x="661.338" y="260.262"></tspan>
+      </text>
+    </g>
+    <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="661.338" y="250.262">
+      <tspan x="661.338" y="250.262">WAIT_CMD</tspan>
+    </text>
+    <g>
+      <rect style="fill: #d8e5e5" x="771.606" y="243" width="80" height="29.1722" rx="10" ry="10"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="771.606" y="243" width="80" height="29.1722" rx="10" ry="10"/>
+      <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="811.606" y="260.35">
+        <tspan x="811.606" y="260.35"></tspan>
+      </text>
+    </g>
+    <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="811.606" y="250.35">
+      <tspan x="811.606" y="250.35">RECEIVE_CMD</tspan>
+    </text>
+    <g>
+      <rect style="fill: #d8e5e5" x="614.474" y="344.844" width="93.75" height="38.3444" rx="10" ry="10"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="614.474" y="344.844" width="93.75" height="38.3444" rx="10" ry="10"/>
+      <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="661.349" y="362.194">
+        <tspan x="661.349" y="362.194"></tspan>
+      </text>
+      <text font-size="7.33778" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="624.474" y="371.366">do/ release cmd buffer</text>
+      <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="614.474" y1="364.016" x2="708.224" y2="364.016"/>
+    </g>
+    <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="661.349" y="352.194">
+      <tspan x="661.349" y="352.194">RLS_CMD_BUFFER</tspan>
+    </text>
+    <g>
+      <rect style="fill: #d8e5e5" x="741.442" y="345.466" width="107.45" height="38.3444" rx="10" ry="10"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="741.442" y="345.466" width="107.45" height="38.3444" rx="10" ry="10"/>
+      <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="795.167" y="362.816">
+        <tspan x="795.167" y="362.816"></tspan>
+      </text>
+      <text font-size="7.33778" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="751.442" y="371.988">do/ start timeslot's process</text>
+      <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="741.442" y1="364.638" x2="848.892" y2="364.638"/>
+    </g>
+    <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="795.167" y="352.816">
+      <tspan x="795.167" y="352.816">WRITE_MEMORY_END</tspan>
+    </text>
+    <g>
+      <rect style="fill: #d8e5e5" x="976.852" y="350" width="80" height="29.1722" rx="10" ry="10"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="976.852" y="350" width="80" height="29.1722" rx="10" ry="10"/>
+      <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1016.85" y="367.35">
+        <tspan x="1016.85" y="367.35"></tspan>
+      </text>
+    </g>
+    <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1016.85" y="357.35">
+      <tspan x="1016.85" y="357.35">WRITE_MEMORY</tspan>
+    </text>
+    <g>
+      <rect style="fill: #d8e5e5" x="976.598" y="242.94" width="80" height="29.1722" rx="10" ry="10"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="976.598" y="242.94" width="80" height="29.1722" rx="10" ry="10"/>
+      <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1016.6" y="260.29">
+        <tspan x="1016.6" y="260.29"></tspan>
+      </text>
+    </g>
+    <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1016.6" y="250.29">
+      <tspan x="1016.6" y="250.29">REQ_MEMORY</tspan>
+    </text>
+    <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="611.92" y="271.792">
+      <tspan x="611.92" y="271.792"></tspan>
+    </text>
+    <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="890" y="257.35">
+      <tspan x="890" y="257.35"></tspan>
+    </text>
+    <g>
+      <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="701.338,257.498 706.178,257.498 706.178,257.586 766.144,257.586 "/>
+      <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="758.38,262.586 768.38,257.586 758.38,252.586 "/>
+      <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="730" y="250">cmd req</text>
+    </g>
+    <g>
+      <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="661.338,242.912 690,242.912 690,210 661.338,210 661.338,237.435 "/>
+      <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="656.338,229.671 661.338,239.671 666.338,229.671 "/>
+      <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="670" y="200">no cmd</text>
+    </g>
+    <g>
+      <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="851.606,257.586 904.77,257.586 904.77,257.526 971.146,257.526 "/>
+      <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="963.382,262.526 973.382,257.526 963.382,252.526 "/>
+      <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="901.652" y="252.056">cmd received</text>
+    </g>
+    <g>
+      <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1016.6,273.117 1016.6,311.056 1016.85,311.056 1016.85,344.523 "/>
+      <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1011.85,336.759 1016.85,346.759 1021.85,336.759 "/>
+      <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1077.66" y="310">mem access allowed</text>
+    </g>
+    <g>
+      <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="975.847,364.586 912.873,364.586 912.873,364.638 854.371,364.638 "/>
+      <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="862.135,359.638 852.135,364.638 862.135,369.638 "/>
+      <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="918.277" y="360.026">parameters written</text>
+    </g>
+    <g>
+      <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="661.349,343.834 661.349,308.463 661.338,308.463 661.338,277.564 "/>
+      <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="666.338,285.328 661.338,275.328 656.338,285.328 "/>
+    </g>
+    <g>
+      <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="811.606,243 844,243 844,210 811.606,210 811.606,238.528 "/>
+      <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="806.606,230.764 811.606,240.764 816.606,230.764 "/>
+      <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="832" y="204">receiving cmd</text>
+    </g>
+    <g>
+      <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1016.6,242.94 1050,242.94 1050,210 1016.6,210 1016.6,238.468 "/>
+      <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1011.6,230.704 1016.6,240.704 1021.6,230.704 "/>
+      <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1038" y="204">memory unavailable</text>
+    </g>
+    <g>
+      <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1016.85,379.172 990,379.172 990,412 1016.85,412 1016.85,383.644 "/>
+      <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1021.85,391.408 1016.85,381.408 1011.85,391.408 "/>
+      <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1012" y="420">writing parameters</text>
+    </g>
+    <g>
+      <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="741.442,364.638 741.442,364 721.558,364 721.558,364.016 712.696,364.016 "/>
+      <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="720.46,359.016 710.46,364.016 720.46,369.016 "/>
+    </g>
+    <g>
+      <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="452,257.542 474,257.542 474,257.532 491.528,257.532 "/>
+      <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="483.764,262.532 493.764,257.532 483.764,252.532 "/>
+    </g>
+    <g>
+      <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="576,257.532 598.669,257.532 598.669,257.498 616.866,257.498 "/>
+      <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="609.102,262.498 619.102,257.498 609.102,252.498 "/>
+    </g>
+  </g>
+</svg>

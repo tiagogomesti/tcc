@@ -1,0 +1,42 @@
+\documentclass[monografia.tex]{subfiles}
+
+\begin{document}
+
+%\imprimircapa
+\begin{capa}
+	\center
+	\bfseries
+	
+	% a) brasão da UFC
+	\includegraphics[width=2cm]{ufc.png}
+
+	% b) nome da instituição, seguido do centro ou faculdade,
+	% departamento, programa de pós-graduação (se for o caso) e/ou
+	% curso;
+	\MakeTextUppercase{\imprimirinstituicao}
+	\vfill
+	% c) nome do autor
+	\MakeTextUppercase{{\imprimirautor}}
+	\vfill
+	% d) título do trabalho
+	% e) subtítulo, separado do título por dois pontos para evidenciar a
+	% subordinação ao título
+	\MakeTextUppercase{\imprimirtitulo}
+	% f) número de volume. Se houver mais de um, deve constar em
+	% cada capa o respectivo volume
+	\vfill
+	\vfill
+	\vfill
+	% g) local (cidade) da instituição onde deve ser apresentado o
+	% trabalho. Em caso de homônimos, recomenda-se o acréscimo
+	% da sigla da unidade da Federação
+	\MakeTextUppercase{\imprimirlocal}
+	
+	% h) ano de entrega, em algarismos arábicos
+	\MakeTextUppercase{\imprimirdata}
+	\vspace*{1cm}
+
+\end{capa}
+
+\end{document}
+

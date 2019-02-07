@@ -1,0 +1,84 @@
+\documentclass[monografia]{subfiles}
+
+\begin{document}
+	% anverso
+	%\begin{folhaderosto}
+	\begin{center}
+	% a) nome do autor
+		{\ABNTEXsubsubsubsectionfont\MakeTextUppercase{\imprimirautor}}
+		\vspace*{\fill}
+		
+	% b) título do trabalho
+	% c)subtítulo (se houver), separado do título por dois pontos para
+	% evidenciar a subordinação ao título
+		\ABNTEXsubsubsubsectionfont\MakeTextUppercase{\imprimirtitulo}
+		\vspace*{\fill}
+		
+	% d)número do volume. Se houver mais de um, deve constar em
+	% cada folha de rosto o respectivo volume em algarismos arábicos;
+
+	% e)natureza – nota contendo o tipo do trabalho (tese, dissertação,
+	% trabalhos de conclusão de curso e outros) e objetivo
+	% (aprovação em disciplina, grau pretendido e outros); nome da
+	% instituição a que é submetido; área de concentração;
+		\begin{SingleSpacing}
+		\imprimirnatureza{\imprimirtipotrabalho\\ 
+
+	% f)nome do orientador e, se houver, do coorientador;
+		\imprimirorientadorRotulo\ \imprimirorientador}
+		\end{SingleSpacing}
+		\vspace*{\fill}
+		\vspace*{\fill}
+
+	% g)local (cidade) da instituição onde vai ser apresentado o
+	% trabalho. No caso de cidades homônimas, recomenda-se o
+	% acréscimo da sigla da unidade da federação;
+		\MakeTextUppercase{\imprimirlocal}
+
+	% h)ano de entrega, em algarismos arábicos
+		\MakeTextUppercase{\imprimirdata}
+		\vspace*{1cm}
+	\end{center}
+	\clearpage
+
+	% verso
+	% devem constar os dados internacionais
+	% de catalogação-na-publicação (ficha catalográfica), conforme o Código
+	% de Catalogação Anglo-Americano (AACR2), que devem ser elaborados
+	% pela biblioteca que atende ao curso em que o trabalho foi apresentado
+	\begin{fichacatalografica}
+
+	% ficha catalográfica é impressa obrigatoriamente no verso da folha de rosto [1.2.1 d]
+	\ifthenelse{\NOT\boolean{@twoside}}{\setcounter{page}{\value{page}-1}}
+	\rmfamily
+		\vspace*{15cm}
+		% Posição vertical
+		\hrule
+		% Linha horizontal
+		\begin{center}
+	% Minipage Centralizado
+			\begin{minipage}[c]{12.5cm} % Largura
+				\imprimirautor
+				\hspace{0.5cm} \imprimirtitulo / \imprimirautor. --
+				\imprimirlocal, \imprimirdata-
+				\hspace{0.5cm} \pageref{LastPage} p. : il.; 30 cm.\\
+				\hspace{0.5cm} \imprimirorientadorRotulo \imprimirorientador\\
+				\hspace{0.5cm} \imprimircoorientadorRotulo \imprimircoorientador\\
+				\hspace{0.5cm}
+				\parbox[t]{\textwidth}{\imprimirtipotrabalho~--~\imprimirinstituicao,
+				\imprimirdata.}\\
+				\hspace{0.5cm}
+				1. Goertzel.
+				2. FPGA.
+				I. Professor Dr. Jarbas Aryel Nunes da Silveira.
+				II. Universidade Federal do Ceará.
+				III. Centro e Tecnologia.
+				IV. Um core de processamento digital de sinais monotônicos para telefonia\\
+				%\hspace{8.75cm} CDU 02:141:005.7\\
+			\end{minipage}
+		\end{center}
+		\hrule
+	\end{fichacatalografica}
+	\cleardoublepage
+	
+\end{document}

@@ -1,0 +1,50 @@
+\documentclass[monografia]{subfiles}
+
+\begin{document}
+
+\begin{folhadeaprovacao}
+\begin{center}
+	% a) nome autor;
+	\ABNTEXsubsubsubsectionfont\MakeTextUppercase{\imprimirautor}
+	\vspace*{\fill}
+	\vspace*{\fill}
+	\vspace*{\fill}
+
+	% b) título do trabalho
+	% c)subtítulo (se houver), separado do título por dois pontos
+	\MakeTextUppercase{\imprimirtitulo}
+	\vspace*{\fill}
+	\vspace*{\fill}
+	\vspace*{\fill}
+	% d) natureza – tipo do trabalho (tese, dissertação, trabalhos de
+	% conclusão de curso e outros), objetivo (grau pretendido,
+	% aprovação em disciplina e outros) nome da instituição e área
+	% de concentração;	
+
+	\OnehalfSpacing
+	\imprimirnatureza{\imprimirtipotrabalho}\\
+	\vspace*{\fill}
+
+\end{center}
+
+	% e) data de aprovação;
+Trabalho aprovado em $\_\_\_/\_\_\_/\_\_\_\_\_$.\\
+
+\begin{center}
+	% f) nome, titulação e assinatura dos componentes da banca
+	% examinadora e instituição a que pertencem.
+	\MakeTextUppercase{Banca Examinadora}
+\assinatura{\imprimirorientador (Orientador) \\ \ies (UFC)}
+
+\assinatura{\imprimircoorientador (Coorientador) \\ \ies (UFC)}
+
+\assinatura{\membroa \\ \iesa (UFC)}
+
+\assinatura{\membrob \\ \iesb (UFC)}
+
+	\vspace*{1cm}
+\end{center}
+
+\end{folhadeaprovacao}
+
+\end{document}

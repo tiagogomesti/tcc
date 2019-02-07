@@ -1,0 +1,39 @@
+\documentclass[monografia]{subfiles}
+
+\begin{document}
+
+	\chapter{Conclusão}
+		Neste trabalho foi desenvolvido um core de detecção de sinais telefônicos monotônicos. A plataforma alvo de desenvolvimento é um hardware
+		configurável FPGA, modelo  virtex 6 fabricado pela \textit{Xilinx}. 
+		O hardware proposto tem duas interfaces de controle, que são a de recebimento de comandos e de envio de mensagens, 
+		e uma interface de injeção de áudio, que consiste em oito canais de recepção multiplexados no tempo.
+		Internamente, está implementado um processador de sinais, com arquitetura 16 bits, responsável pelo processamento matemático dos áudios.
+
+		Foi utilizado neste trabalho o algoritmo de \textit{Goertzel}, que é a base teórica fundamental para o processamento dos sinais. Este algoritmo foi 
+		implementado em hardware, possibilitando um aumento significativo de sua velocidade, pois a maior parte das operações são efetuadas em paralelo.
+
+		O desenvolvimento foi realizado utilizando a metodologia \textit{top-down}, assim possibilitando uma maior organização do trabalho. A sequência de
+		desenvolvimento seguiu o fluxo de utilização do hardware proposto, ou seja, iniciou-se pela interface de comandos, por onde passa a informação
+		do áudio que será detectado, seguido pelo desenvolvimento da interface de recebimento de áudio. Tendo os parâmetros e o áudio a ser detectado, 
+		deu-se início ao desenvolvimento do detector de sinais, posteriormente sendo feito o desenvolvimento da interface de mensagens, por fim retorna o resultado
+		da detecção.
+
+		Neste trabalho foram obtidos três resultados, primeiro da ferramenta de síntese, segundo dos resultados temporais, e 
+		o terceiro baseados nas mensagens de respostas. Da ferramenta de síntese 
+		obtemos a quantidade de elementos lógicos e slices utilizados, não foi possível fazer uma comparação destes resultados pois não foi encontrado na
+		literatura métricas de comparação. Os resultados temporais mostraram que dentro da janela de processamento, o hardware proposto consegue processar muitos 
+		canais além dos oito canais propostos, com uma taxa de acerto de $100\%$, chegando esse número até 
+		duzentos e vinte e dois canais. Da análise das mensagens de resposta pode ser verificado que todos os resultados
+		esperados aconteceram, isso acontece pelo fato de que o processamento é realizado de maneira determinística, só havendo a possibilidade de o áudio ser 
+		detectado, ou não.
+
+		\section{Trabalhos Futuros}
+			Como trabalho futuro temos três metas, embarcar o código na FPGA e iniciar a fase de testes no hardware. A segunda meta é ampliar a faixa de frequência
+			em que a detecção acontece, mas para isso teremos que voltar a fase de pré-projeto, pois para essa ampliação terão que ser aumentados a largura, em bits,
+			de alguns sinais internos, influenciando em desempenho, pois esta ação irá influenciar diretamente nos cálculos matemáticos. A terceira meta é injetar
+			áudios com ruídos, tornando a análise mais próxima da realidade em que os áudios estão submetidos no meio de comunicação.
+
+
+
+			
+\end{document}

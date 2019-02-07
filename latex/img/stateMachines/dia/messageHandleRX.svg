@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="22cm" height="15cm" viewBox="122 5 429 285" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <ellipse style="fill: #000000" cx="133.76" cy="78.9322" rx="10" ry="10"/>
+  <g>
+    <rect style="fill: #d8e5e5" x="180" y="60" width="80" height="38.3444" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="180" y="60" width="80" height="38.3444" rx="10" ry="10"/>
+    <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="220" y="77.35">
+      <tspan x="220" y="77.35"></tspan>
+    </text>
+    <text font-size="7.33778" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="190" y="86.5222">do/ Reset Signals</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="180" y1="79.1722" x2="260" y2="79.1722"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="143.76,78.9322 156.989,78.9322 156.989,79.1722 175.528,79.1722 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="167.764,84.1722 177.764,79.1722 167.764,74.1722 "/>
+  </g>
+  <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="220" y="67.35">
+    <tspan x="220" y="67.35">S0</tspan>
+  </text>
+  <g>
+    <rect style="fill: #d8e5e5" x="350" y="70" width="80" height="29.1722" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="350" y="70" width="80" height="29.1722" rx="10" ry="10"/>
+    <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="390" y="87.35">
+      <tspan x="390" y="87.35"></tspan>
+    </text>
+  </g>
+  <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="390" y="77.35">
+    <tspan x="390" y="77.35">WAIT_RX</tspan>
+  </text>
+  <g>
+    <rect style="fill: #d8e5e5" x="470" y="160" width="80" height="29.1722" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="470" y="160" width="80" height="29.1722" rx="10" ry="10"/>
+    <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="510" y="177.35">
+      <tspan x="510" y="177.35"></tspan>
+    </text>
+  </g>
+  <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="510" y="167.571">
+    <tspan x="510" y="167.571">RECEIVE_DATA</tspan>
+  </text>
+  <g>
+    <rect style="fill: #d8e5e5" x="350" y="250" width="89" height="38.3444" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="350" y="250" width="89" height="38.3444" rx="10" ry="10"/>
+    <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="394.5" y="267.35">
+      <tspan x="394.5" y="267.35"></tspan>
+    </text>
+    <text font-size="7.33778" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="360" y="276.522">do/ pointerBufTail++</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="350" y1="269.172" x2="439" y2="269.172"/>
+  </g>
+  <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="394.5" y="257.35">
+    <tspan x="394.5" y="257.35">INC_TAIL</tspan>
+  </text>
+  <g>
+    <rect style="fill: #d8e5e5" x="218.228" y="160" width="112.6" height="38.3444" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="218.228" y="160" width="112.6" height="38.3444" rx="10" ry="10"/>
+    <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="274.528" y="177.35">
+      <tspan x="274.528" y="177.35"></tspan>
+    </text>
+    <text font-size="7.33778" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="228.228" y="186.522">exit/ release space on buffer</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="218.228" y1="179.172" x2="330.828" y2="179.172"/>
+  </g>
+  <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="274.528" y="167.35">
+    <tspan x="274.528" y="167.35">WAIT_FREE_SPACE</tspan>
+  </text>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 346.019,67.973 A 80.0537,80.0537 0 0 0 260,79.1722"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="336.863,68.5359 348.037,68.9301 341.648,59.7549 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 345.583,99.8494 A 92.6766,92.6766 0 0 0 274.528,160"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="338.503,105.694 347.782,99.4577 337.226,95.7755 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 509.726,155.542 A 77.9976,77.9976 0 0 0 430,84.5861"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="504.602,147.934 509.927,157.765 514.596,147.607 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 430,70 A 29,29 0 1 0 387.033,66.7065"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="377.691,65.182 388.381,68.4579 384.588,57.9406 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 443.459,268.928 A 73.1008,73.1008 0 0 0 510,189.172"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="451.111,263.877 441.235,269.118 451.354,273.874 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 274.605,202.809 A 70.03,70.03 0 0 0 350,269.172"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="279.351,210.651 274.495,200.58 269.352,210.507 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 387.098,102.571 A 109.872,109.872 0 0 0 394.5,250"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="385.602,111.637 388.514,100.843 378.131,104.99 "/>
+  </g>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="410" y="13.125">
+    <tspan x="410" y="13.125">waiting for message</tspan>
+  </text>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="520" y="107.125">
+    <tspan x="520" y="107.125">arrived message</tspan>
+  </text>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="400" y="173.125">
+    <tspan x="400" y="173.125">free space on buffer</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="280" y="220">
+    <tspan x="280" y="220"></tspan>
+  </text>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="268" y="247.125">
+    <tspan x="268" y="247.125">buffer full</tspan>
+  </text>
+</svg>

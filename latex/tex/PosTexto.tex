@@ -1,0 +1,21 @@
+\begin{document}
+
+\subfile{tex/Referencias}
+
+\ifthenelse{\boolean{todosOpcionais}\or\boolean{glossario}}{
+	\subfile{tex/Glossario}
+}
+
+\ifthenelse{\boolean{todosOpcionais}\or\boolean{apendice}}{
+	\subfile{tex/Apendice}
+}
+
+\ifthenelse{\boolean{todosOpcionais}\or\boolean{anexo}}{
+	\subfile{tex/Anexo}
+}
+
+\ifthenelse{\boolean{todosOpcionais}\or\boolean{indice}}{
+	\subfile{tex/Indice}
+}
+
+\end{document}

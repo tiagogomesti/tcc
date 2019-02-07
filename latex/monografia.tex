@@ -1,0 +1,23 @@
+\documentclass[12pt,
+openright,
+twoside, % só verso -> oneside; verso e anverso -> twoside [1.2.1 d]
+a4paper, % [1.2.1 a]
+%hyphens,
+chapter=TITLE, % títulos de capítulos convertidos em letras maiúsculas
+english,
+brazil]{abntex2}
+
+\usepackage{ufcstyle}
+
+\begin{document}
+	\citeoption{opcoesdaufc}
+
+	\subfile{tex/ParteExterna}
+	\subfile{tex/ParteInterna}
+
+
+
+	% \bibliography{tex/bibliografia}%Adicionar as referencias no arquivo bibliografia.bib
+
+
+\end{document}

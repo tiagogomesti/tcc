@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="25cm" height="12cm" viewBox="315 120 482 235" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <ellipse style="fill: #000000" cx="326" cy="140.325" rx="10" ry="10"/>
+    <g>
+      <rect style="fill: #d8e5e5" x="385.942" y="121.23" width="80" height="38.3444" rx="10" ry="10"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="385.942" y="121.23" width="80" height="38.3444" rx="10" ry="10"/>
+      <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="425.942" y="138.58">
+        <tspan x="425.942" y="138.58"></tspan>
+      </text>
+      <text font-size="7.33778" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="395.942" y="147.752">do/ Reset Signals</text>
+      <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="385.942" y1="140.402" x2="465.942" y2="140.402"/>
+    </g>
+    <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="425.942" y="128.58">
+      <tspan x="425.942" y="128.58">S0</tspan>
+    </text>
+    <g>
+      <rect style="fill: #d8e5e5" x="520" y="160" width="80" height="29.1722" rx="10" ry="10"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="520" y="160" width="80" height="29.1722" rx="10" ry="10"/>
+      <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="560" y="177.35">
+        <tspan x="560" y="177.35"></tspan>
+      </text>
+    </g>
+    <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="560" y="167.35">
+      <tspan x="560" y="167.35">PROCESSOR_TIME</tspan>
+    </text>
+    <g>
+      <rect style="fill: #d8e5e5" x="520" y="272" width="80" height="29.1722" rx="10" ry="10"/>
+      <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="520" y="272" width="80" height="29.1722" rx="10" ry="10"/>
+      <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="560" y="289.35">
+        <tspan x="560" y="289.35"></tspan>
+      </text>
+    </g>
+    <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="560" y="279.35">
+      <tspan x="560" y="279.35">CMD_TIME</tspan>
+    </text>
+    <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="499.92" y="284.25">
+      <tspan x="499.92" y="284.25"></tspan>
+    </text>
+    <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="778" y="269.808">
+      <tspan x="778" y="269.808"></tspan>
+    </text>
+    <g>
+      <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="600,174.586 620,174.586 620,286.586 604.472,286.586 "/>
+      <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="612.236,281.586 602.236,286.586 612.236,291.586 "/>
+      <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="710" y="230">cmd req AND processor halted</text>
+    </g>
+    <g>
+      <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="560,160 592,160 592,128 560,128 560,154.532 "/>
+      <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="555,146.768 560,156.768 565,146.768 "/>
+      <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="650" y="140">processing signals</text>
+    </g>
+    <g>
+      <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="560,301.172 588,301.172 588,328 560,328 560,305.644 "/>
+      <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="565,313.408 560,303.408 555,313.408 "/>
+      <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="576" y="352">writing parameters</text>
+    </g>
+    <g>
+      <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="520,286.586 500,286.586 500,174.586 515.528,174.586 "/>
+      <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="507.764,179.586 517.764,174.586 507.764,169.586 "/>
+      <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="410" y="240">writing end of the parameters</text>
+    </g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="465.942,140.402 476,140.402 476,140 507,140 "/>
+    <g>
+      <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="507,140 507,140 534,140 534,155.528 "/>
+      <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="529,147.764 534,157.764 539,147.764 "/>
+    </g>
+    <g>
+      <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="336" y1="140.325" x2="381.47" y2="140.395"/>
+      <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="373.698,145.383 383.706,140.399 373.714,135.383 "/>
+    </g>
+  </g>
+</svg>

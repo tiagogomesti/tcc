@@ -1,0 +1,99 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.5 }
+
+\bibitem[Ali 1996]{Kamai}
+\abntrefinfo{Ali}{ALI}{1996}
+{ALI, K.~S. Digital circuit design using fpgas.
+\emph{Computers and Industrial Engineering}, p. 127 -- 129, 1996.}
+
+\bibitem[Bhavanam P.~Siddaiah 2014]{Bhavanam1}
+\abntrefinfo{Bhavanam P.~Siddaiah}{BHAVANAM P.~SIDDAIAH}{2014a}
+{BHAVANAM P.~SIDDAIAH, P. R.~R. S.~N. Fpga based efficient dtmf detection using
+  split goertzel algorithm with optimized resource sharing approach.
+\emph{Wireless and Optical Communications Networks (WOCN), 2014 Eleventh
+  International Conference on}, September 2014.}
+
+\bibitem[Bhavanam P.~Siddaiah 2014]{Bhavanam2}
+\abntrefinfo{Bhavanam P.~Siddaiah}{BHAVANAM P.~SIDDAIAH}{2014b}
+{BHAVANAM P.~SIDDAIAH, P. R.~R. S.~N. Zynq 7000 series fpga based efficient
+  dtmf detection.
+\emph{Computational Intelligence and Computing Research (ICCIC), 2014 IEEE
+  International Conference on}, p. 1 -- 7, December 2014.}
+
+\bibitem[Costa, Mesquita e Pinheiro 2011]{mesquita}
+\abntrefinfo{Costa, Mesquita e Pinheiro}{COSTA; MESQUITA; PINHEIRO}{2011}
+{COSTA, C.~d.; MESQUITA, L.; PINHEIRO, E. \emph{Elementos de Lógica
+  Programável com VHDL e DSP: Teoria e Prática}. São Paulo, Brasil: Érica,
+  2011.
+ISBN 978-85-365-0312-7.}
+
+\bibitem[Lindh Johan~Stäner 1996]{Lennart}
+\abntrefinfo{Lindh Johan~Stäner}{LINDH JOHAN~STäNER}{1996}
+{LINDH JOHAN~STäNER, J.~A. L. Experiences with vhdl and fpgas.
+\emph{Journal of Systems Architecture}, p. 97 -- 104, 1996.}
+
+\bibitem[Oppenheim 1998]{oppenheim}
+\abntrefinfo{Oppenheim}{OPPENHEIM}{1998}
+{OPPENHEIM, A.~V. \emph{Discrete-Time Signal Processing}. Upper Saddle River,
+  New Jersey 07458: Prentice Hall, 1998.
+ISBN 0-13-754920-2.}
+
+\bibitem[Pedroni 2010]{pedroni}
+\abntrefinfo{Pedroni}{PEDRONI}{2010}
+{PEDRONI, V.~A. \emph{Eletrônica Digital Moderna e VHDL}. Rio de Janeiro,
+  Brasil: Elsevier, 2010.
+ISBN 978-85-352-3465-7.}
+
+\bibitem[Selman 2007]{Selman}
+\abntrefinfo{Selman}{SELMAN}{2007}
+{SELMAN, R.~P. S. Comparative analysis of methods used in the design of dtmf
+  tone detectors.
+\emph{IEEE International Conference on Telecommunications and Malaysia
+  International Conference on Communications}, May 2007.}
+
+\bibitem[SILICON LABS]{siliconLabs1}
+\abntrefinfo{SILICON LABS}{SILICON LABS}{}
+{SILICON LABS. \emph{Using Microcontrollers in Digital Signal Processing
+  Applications}.
+Ug364 (v1.2). [S.l.]. Dispon{\'\i}vel em:
+  \url{https://www.silabs.com/Support\%20Documents/TechnicalDocs/an219.pdf}.}
+
+\bibitem[Xilinx 2012]{edkConcepts}
+\abntrefinfo{Xilinx}{XILINX}{2012a}
+{XILINX. \emph{EDK Concepts, Tools, and Techniques: A Hands-On Guide to
+  Effective Embedded System Design}.
+Ug683 (v13.4). [S.l.], 2012.}
+
+\bibitem[Xilinx 2012]{edk}
+\abntrefinfo{Xilinx}{XILINX}{2012b}
+{XILINX. \emph{Embedded System Tools Reference Manual: EDK}.
+Ug111 (v13.4). [S.l.], 2012.}
+
+\bibitem[Xilinx 2012]{virtex6}
+\abntrefinfo{Xilinx}{XILINX}{2012c}
+{XILINX. \emph{Virtex-6 Family Overview: Product Specification}.
+Ds150 (v2.4). [S.l.], 2012.}
+
+\bibitem[Xilinx 2012]{virtex6_CLB}
+\abntrefinfo{Xilinx}{XILINX}{2012d}
+{XILINX. \emph{Virtex-6 FPGA Configurable Logic Block: User Guide}.
+Ug364 (v1.2). [S.l.], 2012.}
+
+\bibitem[Yuying 2014]{Yuying}
+\abntrefinfo{Yuying}{YUYING}{2014}
+{YUYING, L. Research of dtmf dialing system based on the goertzel algorithm and
+  matlab simulation.
+\emph{Information Technology and Artificial Intelligence Conference (ITAIC),
+  2014 IEEE 7th Joint International}, p. 93 -- 97, December 2014.}
+
+\bibitem[Záplata 2014]{Zaplata}
+\abntrefinfo{Záplata}{ZáPLATA}{2014}
+{ZáPLATA, M.~K. F. Using the goertzel algorithm as a filter.
+\emph{Radioelektronika (RADIOELEKTRONIKA), 2014 24th International Conference},
+  p. 1 -- 3, April 2014.}
+
+\end{thebibliography}

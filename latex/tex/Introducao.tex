@@ -1,0 +1,77 @@
+\documentclass[monografia]{subfiles}
+
+\begin{document}
+
+	\chapter{Introdução}	
+		Devido ao constante crescimento da tecnologia e sua participação cada vez mais presente no cotidiano,
+		os sistemas digitais de computação vêm se tornando ferramenta de grande utilidade para o desenvolvimento da sociedade. 
+		Sua participação permeia uma vasta gama de atividades, como quais, medicina, agricultura, controle aéreo, etc,
+		fazendo com que seus avanços causem impactos significativos nos processos aos quais fazem parte.
+
+		Os sistemas de telecomunicações também tiram proveito desta evolução tecnológica, 
+		tendo na década de 60 iniciado um ciclo de digitalização de seus sistemas, que estende-se até hoje, que tem como características
+		principais a compactação do hardware e o aumento do uso de softwares, o que tem como resultado equipamentos cada vez menores e com 
+		maior poder de processamento. 
+		No princípio, a digitalização teve maior ênfase nos sistemas de transmissão, fazendo uso da técnica de digitalização de sinais denominada
+		PCM (Pulse Code Modulation). Não demorou muito e a digitalização foi também adotada nas centrais telefônicas.
+		Mesmo com os avanços tecnológicos, na telefonia ainda hoje há uma coexistência de centrais telefônicas analógicas e digitais, com um decréscimo progressivo
+		das centrais analógicas e incremento das centrais digitais.
+
+		Para a correta comunicação das centrais telefônicas, seja com outras centrais ou com usuários, são usados sinalizações acústicas, que são sinais
+		audíveis na faixa de frequências $[0Hz,4000Hz]$. Alguns exemplos destas sinalizações são o tom de discagem, que consiste em um sinal contínuo de $425 Hz$,
+		outro exemplo é o tom de ocupado, que também é sinal de $425 Hz$ com duração de $250ms$ e interrupção de $250ms$ sucessivamente.
+
+		Para o desenvolvimento deste trabalho, foram necessários conhecimentos em desenvolvimento de hardware em VHDL, para isto, foram utilizados 
+		\cite{pedroni} e \cite{mesquita}, além disso, para estudo da ferramenta de desenvolvimento, foram utilizados \cite{virtex6_CLB}, \cite{virtex6}
+		\cite{edk} e \cite{edkConcepts}.
+
+
+
+
+
+
+
+	\section{Motivação}
+		De maneira geral, as centrais telefônicas fazem o processamentos dos áudios com uso de processadores de sinais, os quais são embarcados com firmware
+		para devido processamento.
+		Com as atualizações das tecnologias, alguns modelos de processadores de sinais utilizados nas centrais podem ter sua fabricação
+		descontinuada, fazendo com que um novo firmware para outro modelo de DSP tenha que ser projetado, demandando investimento financeiro e de pessoal,
+		tendo o fato de que o código do firmware é totalmente dependente da plataforma alvo.
+
+		Uma alternativa para este problema está no uso de FPGAs(\textit{Field Programmable Gate Array}), pois com o código do processamento escrito em uma
+		linguagem de descrição de hardware, VHDL ou Verilog por exemplo, e com o uso de uma ferramenta de síntese, este código pode ser reutilizado
+		para diferente FPGAs, pois a única diferença é a síntese para a FPGA alvo, permanecendo o código inalterado. 
+		\cite{Kamai} e \cite{Lennart} mostram em seus trabalhos, que FPGAs apresentam um meio eficiente para desenvolvimento e produção de sistemas digitais.
+
+
+	\section{Objetivos}
+		A seguir são apresentados os objetivos gerais e específicos para este trabalho.
+
+	\subsection{Objetivos Gerais}
+		O principal objetivo deste trabalho é desenvolver um core de hardware, com arquitetura de 16 bits, descrito através da linguagem VHDL, 
+		para a detecção de sinais monotônicos da telefonia, tendo como plataforma alvo uma FPGA da \textit{Xilinx}.
+
+
+
+	\subsection{Objetivos Específicos}
+		O trabalho proposto tem os seguintes objetivos específicos:
+
+			\begin{enumerate}
+			\label{sec:test}
+				\item Desenvolver um hardware controlado, com interface simples, para fácil inserção em um sistema;
+				\item Processar oito canais de detecção;
+				\item Realizar o processamento dos canais sem perder amostras de áudio.
+
+			\end{enumerate}
+
+
+	\section{Organização do trabalho}
+		O trabalho está organizado em cinco capítulos, incluindo este capítulo de introdução. O segundo capítulo faz um resumo da teoria de processamento de sinais
+		utilizado na detecção dos áudios, aborda temas  como a transformada de fourier, transformada discreta de fourier e algoritmo de goertzel.
+		O terceiro detalha o desenvolvimento do hardware do core de detecção de tons, descrevendo todos seus blocos de
+		hardware internos, assim como a comunicação entre eles e suas funcionalidades. 
+		O quarto capítulo apresenta os resultados obtidos da simulação do hardware e da ferramenta de síntese. O ultimo capítulo faz a conclusão e 
+		apresenta sugestão para trabalhos futuros.
+
+
+\end{document}

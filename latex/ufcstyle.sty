@@ -1,0 +1,117 @@
+\ProvidesPackage{ufcstyle}
+
+\usepackage[utf8]{inputenc}	%	Acentos Automáticos
+\usepackage[T1]{fontenc}	%	Fontes EC (melhora hifenização e acentuação)
+
+%	Citações padrão ABNT
+\usepackage[alf]{abntex2cite} % 	alf ou num (tipo de citação) 
+\usepackage{graphicx}
+
+\usepackage{amsmath}
+\usepackage{multirow}
+
+
+
+
+\usepackage{ifpdf}
+\ifpdf
+   % put here packages only for the PDF:
+   \DeclareGraphicsExtensions{.pdf,.png,.jpg,.mps,.svg}
+   %\usepackage{hyperref} 
+\else
+   % put here packages only for the DVI:
+\fi
+\graphicspath{{./img/}}
+%\usepackage{showframe} % mostra as margens em cada página, comentar para versão final
+\usepackage{subfiles}
+\usepackage{indentfirst} % Indenta o primeiro parágrafo de cada seção.
+\setlength{\parindent}{2.0cm}
+\usepackage[none]{hyphenat} % desabilita hifenização
+\setlength{\emergencystretch}{10cm} % força justificação do texto
+\usepackage{lastpage} % usado por abntex2-fichacatalografica.tex
+
+%% Configurações da Fonte %%
+  % Escolha da fonte: Times (Arial não disponível ainda) [1.2.1 b] e [1.2.5.1 k]
+\renewcommand*\rmdefault{ptm}
+\renewcommand{\ABNTEXsubsubsubsectionfont}{\rmfamily} % seção quintenária
+\renewcommand{\ABNTEXsubsubsectionfont}{\ABNTEXsubsubsubsectionfont\itshape} % seção quaternária
+\renewcommand{\ABNTEXchapterfont}{\ABNTEXsubsubsubsectionfont\bfseries} % seção primária
+\renewcommand{\ABNTEXsectionfont}{\ABNTEXchapterfont} % seção secundária
+\renewcommand{\ABNTEXsubsectionfont}{\ABNTEXsectionfont\itshape} % seção terciária
+\setparaheadstyle{\normalfont\ABNTEXsubsubsubsectionfont\raggedright}
+% Define tamanho da fonte: 12pt [1.2.1 b]
+\renewcommand{\ABNTEXchapterfontsize}{\normalsize}
+\renewcommand{\ABNTEXsectionfontsize}{\ABNTEXchapterfontsize}
+\renewcommand{\ABNTEXsubsectionfontsize}{\ABNTEXchapterfontsize}
+\renewcommand{\ABNTEXsubsubsectionfontsize}{\ABNTEXchapterfontsize}
+\renewcommand{\ABNTEXsubsubsubsectionfontsize}{\ABNTEXchapterfontsize}
+
+\newcommand{\ies}{Universidade Federal do Ceará}
+%% Preencher os dados do curso
+\newcommand{\centro}{Centro de Tecnologia}
+\newcommand{\departamento}{Departamento de Engenharia de Teleinformática}
+\newcommand{\curso}{Graduação em Engenharia de Teleinformática}
+\instituicao{\ies \par \centro \par \departamento \par \curso}
+%% Preencher os dados do trabalho
+% se o trabalho não tiver subtítulo, remover tudo entre {}
+\newcommand{\subtitulo}{: <Subtítulo do Trabalho>}
+\titulo{Um core de processamento digital de sinais monotônicos para  
+	telefonia}
+\autor{Tiago Gomes Castro}
+\orientador{Professor Dr. Jarbas Aryel Nunes da Silveira}
+\coorientador{Eng. Me. Fábio Cisne Ribeiro}
+\tipotrabalho{Projeto de conclusão de curso apresentado ao curso de  \curso\ do \departamento\ da \ies, 
+	como requisito parcial para obtenção do diploma de Engenheiro de Teleinformática.}
+%% Preencher os dados da banca
+\newcommand{\membroa}{Prof. D.r Paulo Cesar Cortez}
+\newcommand{\iesa}{Universidade Federal do Ceará}
+\newcommand{\membrob}{Prof. M.e Ricardo Jardel Nunes Da Silveira}
+\newcommand{\iesb}{Universidade Federal do Ceará}
+\local{Fortaleza}
+\data{\the\year}
+
+\newboolean{todosOpcionais}
+\newboolean{lombada}
+\newboolean{errata}
+\newboolean{dedicatoria}
+\newboolean{agradecimento}
+\newboolean{epigrafe}
+\newboolean{ilustracoes}
+\newboolean{tabelas}
+\newboolean{abreviaturasSiglas}
+\newboolean{simbolos}
+\newboolean{glossario}
+\newboolean{apendice}
+\newboolean{anexo}
+\newboolean{indice}
+
+%% Escolher quais opcionais estarão presentes
+% trocar false por true pra habilitar todos opcionais
+\setboolean{todosOpcionais}{false}
+% trocar false por true pra habilitar opcionais específicos
+% pré-texto
+\setboolean{lombada}{false}
+\setboolean{errata}{false}
+\setboolean{dedicatoria}{true}
+\setboolean{agradecimento}{true}
+\setboolean{epigrafe}{false}
+\setboolean{ilustracoes}{false}
+\setboolean{tabelas}{false}
+\setboolean{abreviaturasSiglas}{false}
+\setboolean{simbolos}{false}
+% pós-texto
+\setboolean{glossario}{false}
+\setboolean{apendice}{false}
+\setboolean{anexo}{false}
+\setboolean{indice}{false}
+
+% Imprime descrição do trabalho
+\newcommand{\imprimirnatureza}[1]{
+	\hspace*{.5\textwidth} % [1.2.2 e]
+	\begin{minipage}{.49\textwidth}
+			#1
+	\end{minipage}%
+}
+
+% Citação direta longa (mais de 3 linhas) [1.2.2 c]
+% usar \begin{citacao}\end{citacao}

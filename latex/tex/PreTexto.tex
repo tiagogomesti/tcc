@@ -1,0 +1,47 @@
+\documentclass[monografia]{subfiles}
+
+\begin{document}
+
+\subfile{tex/FolhaRosto}
+
+\ifthenelse{\boolean{todosOpcionais}\or\boolean{errata}}{
+	\subfile{tex/Errata}
+}
+
+\subfile{tex/FolhaAprovacao}
+
+\ifthenelse{\boolean{todosOpcionais}\or\boolean{dedicatoria}}{
+	\subfile{tex/Dedicatoria}
+}
+
+\ifthenelse{\boolean{todosOpcionais}\or\boolean{agradecimento}}{
+	\subfile{tex/Agradecimento}
+}
+
+\ifthenelse{\boolean{todosOpcionais}\or\boolean{epigrafe}}{
+	\subfile{tex/Epigrafe}
+}
+
+\subfile{tex/ResumoLinguaVernacula}
+
+\subfile{tex/ResumoLinguaEstrangeira}
+
+\ifthenelse{\boolean{todosOpcionais}\or\boolean{ilustracoes}}{
+	\subfile{tex/ListaIlustracoes}
+}
+
+\ifthenelse{\boolean{todosOpcionais}\or\boolean{tabelas}}{
+	\subfile{tex/ListaTabelas}
+}
+
+\ifthenelse{\boolean{todosOpcionais}\or\boolean{abreviaturasSiglas}}{
+	\subfile{tex/ListaAbreviaturasSiglas}
+}
+
+\ifthenelse{\boolean{todosOpcionais}\or\boolean{simbolos}}{
+	\subfile{tex/ListaSimbolos}
+}
+
+\subfile{tex/Sumario}
+
+\end{document}

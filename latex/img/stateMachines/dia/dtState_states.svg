@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="36cm" height="22cm" viewBox="194 -48 701 428" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <ellipse style="fill: #000000" cx="210" cy="32.5225" rx="10" ry="10"/>
+  <g>
+    <rect style="fill: #d8e5e5" x="280" y="20" width="80" height="29.1722" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="280" y="20" width="80" height="29.1722" rx="10" ry="10"/>
+    <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="320" y="37.35">
+      <tspan x="320" y="37.35"></tspan>
+    </text>
+  </g>
+  <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="320" y="27.35">
+    <tspan x="320" y="27.35">CHANNEL AVAILABLE</tspan>
+  </text>
+  <g>
+    <rect style="fill: #d8e5e5" x="460" y="11.4111" width="99.65" height="38.3444" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="460" y="11.4111" width="99.65" height="38.3444" rx="10" ry="10"/>
+    <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="509.825" y="28.7611">
+      <tspan x="509.825" y="28.7611"></tspan>
+    </text>
+    <text font-size="7.33778" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="470" y="37.9333">do/ counterOfSample++</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="460" y1="30.5833" x2="559.65" y2="30.5833"/>
+  </g>
+  <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="509.825" y="18.7611">
+    <tspan x="509.825" y="18.7611">DT_STATE0</tspan>
+  </text>
+  <g>
+    <rect style="fill: #d8e5e5" x="644.34" y="140" width="80" height="38.3444" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="644.34" y="140" width="80" height="38.3444" rx="10" ry="10"/>
+    <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="684.34" y="157.35">
+      <tspan x="684.34" y="157.35"></tspan>
+    </text>
+    <text font-size="7.33778" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="654.34" y="166.522">do/ cntPulse++</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="644.34" y1="159.172" x2="724.34" y2="159.172"/>
+  </g>
+  <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="684.34" y="147.35">
+    <tspan x="684.34" y="147.35">DT_STATE1</tspan>
+  </text>
+  <g>
+    <rect style="fill: #d8e5e5" x="277.252" y="140" width="80" height="38.3444" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="277.252" y="140" width="80" height="38.3444" rx="10" ry="10"/>
+    <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="317.252" y="157.35">
+      <tspan x="317.252" y="157.35"></tspan>
+    </text>
+    <text font-size="7.33778" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="287.252" y="166.522">do/ Send Message</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="277.252" y1="159.172" x2="357.252" y2="159.172"/>
+  </g>
+  <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="317.252" y="147.35">
+    <tspan x="317.252" y="147.35">DT_STATE3</tspan>
+  </text>
+  <g>
+    <rect style="fill: #d8e5e5" x="460" y="284.385" width="80" height="38.3444" rx="10" ry="10"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="460" y="284.385" width="80" height="38.3444" rx="10" ry="10"/>
+    <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="500" y="301.735">
+      <tspan x="500" y="301.735"></tspan>
+    </text>
+    <text font-size="7.33778" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="470" y="310.907">do/ cntPause++</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="460" y1="303.557" x2="540" y2="303.557"/>
+  </g>
+  <text font-size="7.33778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="500" y="291.735">
+    <tspan x="500" y="291.735">DT_STATE2</tspan>
+  </text>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 275.714,33.3183 A 111.201,111.201 0 0 0 220,32.5225"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="266.824,35.6452 277.869,33.9089 269.853,26.1149 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 456.126,28.3569 A 90.4349,90.4349 0 0 0 360,34.5861"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="446.947,28.498 458.089,29.4215 452.143,19.9537 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 683.376,135.635 A 137.11,137.11 0 0 0 559.65,30.5833"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="676.999,129.007 683.893,137.809 686.798,127.012 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 544.119,305.29 A 105.437,105.437 0 0 0 684.34,178.344"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="553.212,303.974 542.042,304.468 549.138,313.107 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 316.564,182.761 A 111.055,111.055 0 0 0 460,303.557"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="320.05,191.263 316.863,180.547 310.202,189.526 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 559.65,11.4111 A 29.1961,29.1961 0 1 0 507.807,7.46357"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="499.178,3.57753 508.659,9.50309 507.711,-1.63698 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 724.34,178.344 A 33.0631,33.0631 0 1 0 727.152,136.562"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="727.361,127.132 725.636,138.178 735.508,132.93 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 639.872,178.478 A 105.25,105.25 0 0 0 540,284.385"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="632.147,183.45 642.104,178.364 632.061,173.45 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 507.26,53.4184 A 214.455,214.455 0 0 0 500,284.385"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="506.769,62.6156 508.524,51.5738 498.637,56.7951 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 361.545,160.424 A 505.062,505.062 0 0 0 644.34,159.172"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="370.404,157.856 359.396,159.808 367.562,167.444 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 460,322.729 A 24.5648,24.5648 0 1 0 502.231,326.542"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="511.175,329.788 501.298,324.55 503.034,335.594 "/>
+  </g>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 316.872,52.3571 A 64.5561,64.5561 0 0 0 317.252,140"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="314.573,61.2251 318.379,50.7124 307.685,53.9755 "/>
+  </g>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="540" y="-40">
+    <tspan x="540" y="-40">counterOfSamples &lt; 32</tspan>
+  </text>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="710" y="60">
+    <tspan x="710" y="60">counterOfSamples = 32 AND</tspan>
+    <tspan x="710" y="69.8778">max( abs(sample)) &gt;= 0x0370 </tspan>
+    <tspan x="710" y="79.7556"></tspan>
+  </text>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="840" y="148.186">
+    <tspan x="840" y="148.186">(happened a pulse) AND</tspan>
+    <tspan x="840" y="158.064">(cntPulse &lt; TIME_OUT_PULSE)</tspan>
+  </text>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="710" y="280">
+    <tspan x="710" y="280">(happened a pause) AND</tspan>
+    <tspan x="710" y="289.878">(cntPulse &lt; TIME_OUT_PULSE)</tspan>
+  </text>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="620" y="210">
+    <tspan x="620" y="210">(happened a pause) AND</tspan>
+    <tspan x="620" y="219.878">(cadence &gt; 0) AND</tspan>
+    <tspan x="620" y="229.756">(cntCadende &lt; cadence) </tspan>
+  </text>
+  <text font-size="7.90222" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="620" y="240">
+    <tspan x="620" y="240">do/ cntCadence++</tspan>
+  </text>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="484" y="368">
+    <tspan x="484" y="368">(happened a pause) AND</tspan>
+    <tspan x="484" y="377.878">(cntPause &lt; TIME_OUT_PAUSE)</tspan>
+  </text>
+  <g>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M 560.779,54.0806 A 125.381,125.381 0 0 0 644.34,140"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="567.389,60.4717 560.176,51.9288 557.669,62.8245 "/>
+  </g>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="444" y="108">
+    <tspan x="444" y="108">TIME_OUT_PAUSE</tspan>
+  </text>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="560" y="120">
+    <tspan x="560" y="120">TIME_OUT_PULSE</tspan>
+  </text>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="532" y="160">
+    <tspan x="532" y="160">(is a continuous tone) AND</tspan>
+    <tspan x="532" y="169.878">cntPulse = minPulse</tspan>
+  </text>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="264" y="260">
+    <tspan x="264" y="260">(happened a pulse) AND</tspan>
+    <tspan x="264" y="269.878">(minPulse &lt; cntPulse &lt; maxPulse) AND</tspan>
+    <tspan x="264" y="279.756">(minPause &lt; cntPause &lt; maxPause)</tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="260" y="100">
+    <tspan x="260" y="100"></tspan>
+  </text>
+  <text font-size="7.9021" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="260" y="100">
+    <tspan x="260" y="100">release the channel</tspan>
+  </text>
+</svg>

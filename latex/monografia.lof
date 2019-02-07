@@ -1,0 +1,22 @@
+\select@language {brazil}
+\contentsline {figure}{\numberline {1}{\ignorespaces Pulsos, Pausas e Cad\IeC {\^e}ncia}}{24}{figure.3.1}
+\contentsline {figure}{\numberline {2}{\ignorespaces Top Module}}{25}{figure.3.2}
+\contentsline {figure}{\numberline {3}{\ignorespaces M\IeC {\'o}dulo Tone Detector}}{26}{figure.3.3}
+\contentsline {figure}{\numberline {4}{\ignorespaces Command Handler}}{26}{figure.3.4}
+\contentsline {figure}{\numberline {5}{\ignorespaces M\IeC {\'a}quina de Estados do Command Handler}}{27}{figure.3.5}
+\contentsline {figure}{\numberline {6}{\ignorespaces Par\IeC {\^a}metros da Detec\IeC {\c c}\IeC {\~a}o}}{28}{figure.3.6}
+\contentsline {figure}{\numberline {7}{\ignorespaces Bloco de controle de acesso \IeC {\`a} mem\IeC {\'o}ria}}{29}{figure.3.7}
+\contentsline {figure}{\numberline {8}{\ignorespaces M\IeC {\'a}quina de Estado do Controle de Acesso \IeC {\`a} Mem\IeC {\'o}ria}}{30}{figure.3.8}
+\contentsline {figure}{\numberline {9}{\ignorespaces Organiza\IeC {\c c}\IeC {\~a}o da mem\IeC {\'o}ria para cada canal}}{31}{figure.3.9}
+\contentsline {figure}{\numberline {10}{\ignorespaces Bloco do Processador de Sinais}}{33}{figure.3.10}
+\contentsline {figure}{\numberline {11}{\ignorespaces M\IeC {\'a}quina de Estados da Detec\IeC {\c c}\IeC {\~a}o}}{34}{figure.3.11}
+\contentsline {figure}{\numberline {12}{\ignorespaces Pulso Cont\IeC {\'\i }nuo}}{35}{figure.3.12}
+\contentsline {figure}{\numberline {13}{\ignorespaces \IeC {\'A}udios Detect\IeC {\'a}veis}}{37}{figure.3.13}
+\contentsline {figure}{\numberline {14}{\ignorespaces Hardware State Machine}}{38}{figure.3.14}
+\contentsline {figure}{\numberline {15}{\ignorespaces Message Handler Block}}{43}{figure.3.15}
+\contentsline {figure}{\numberline {16}{\ignorespaces Rx Message State Machine}}{44}{figure.3.16}
+\contentsline {figure}{\numberline {17}{\ignorespaces Tx Message State Machine}}{45}{figure.3.17}
+\contentsline {figure}{\numberline {18}{\ignorespaces Test Unity}}{47}{figure.3.18}
+\contentsline {figure}{\numberline {19}{\ignorespaces Test Unity Functional Model}}{48}{figure.3.19}
+\contentsline {figure}{\numberline {20}{\ignorespaces LUT Example}}{50}{figure.4.20}
+\contentsline {figure}{\numberline {21}{\ignorespaces D\IeC {\'\i }gitos DTMF}}{52}{figure.4.21}

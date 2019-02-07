@@ -1,0 +1,1421 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"_S",
+				"_STATE2"
+			],
+			[
+				"DT",
+				"demonstrando"
+			],
+			[
+				"TS",
+				"TIME_OUT_MSG_s"
+			],
+			[
+				"SEN",
+				"SEND_MSG_TIME_OUT_PULSE"
+			],
+			[
+				"NE",
+				"NEXT_STATE"
+			],
+			[
+				"cnt",
+				"cnt_pause_v"
+			],
+			[
+				"sampl",
+				"sample_1_coeff_1_v"
+			],
+			[
+				"DT_",
+				"DT_STATE0"
+			],
+			[
+				"st",
+				"state_v"
+			],
+			[
+				"por",
+				"ports_free_s"
+			],
+			[
+				"num",
+				"num_files_s"
+			],
+			[
+				"tex",
+				"text_v"
+			],
+			[
+				"lin",
+				"line_v"
+			],
+			[
+				"out",
+				"out_FrameControl_s"
+			],
+			[
+				"in_",
+				"in_FrameControl_s"
+			],
+			[
+				"GLO",
+				"GLOBAL_RESET"
+			],
+			[
+				"fla",
+				"flag_busy_port_s"
+			],
+			[
+				"WAI",
+				"WAIT_RX_MSG"
+			],
+			[
+				"PROCE",
+				"PROCESS_MSG_1"
+			],
+			[
+				"pro",
+				"process"
+			],
+			[
+				"NEX",
+				"NEXT_STATE_MSG"
+			],
+			[
+				"CURRE",
+				"CURRENT_STATE_MSG"
+			],
+			[
+				"pa",
+				"pathString"
+			],
+			[
+				"els",
+				"elsif	elsif"
+			],
+			[
+				"std",
+				"std_logic"
+			],
+			[
+				"file",
+				"file_int_v"
+			],
+			[
+				"CMD",
+				"CMD_TX"
+			],
+			[
+				"G",
+				"GLOBAL_RESET"
+			],
+			[
+				"GL",
+				"GLOBAL_CLOCK"
+			],
+			[
+				"en",
+				"ent	entity"
+			],
+			[
+				"fil",
+				"fileName"
+			],
+			[
+				"max",
+				"maxPause"
+			],
+			[
+				"min",
+				"minPause"
+			],
+			[
+				"mi",
+				"minPulse"
+			],
+			[
+				"cof",
+				"coef"
+			],
+			[
+				"samp",
+				"sample_1"
+			],
+			[
+				"sam",
+				"sample_1"
+			],
+			[
+				"cnP",
+				"cntPulse"
+			],
+			[
+				"str",
+				"strcat"
+			],
+			[
+				"ma",
+				"maxPause"
+			],
+			[
+				"NUM",
+				"NUM_CH-1"
+			],
+			[
+				"MSG",
+				"MSG_RX_ACK"
+			],
+			[
+				"GLOB",
+				"GLOBAL_RESET"
+			],
+			[
+				"R",
+				"RST"
+			],
+			[
+				"SE",
+				"SET_TS"
+			],
+			[
+				"RX",
+				"RX_NEXT_STATE"
+			],
+			[
+				"TX",
+				"TX_NEXT_STATE"
+			],
+			[
+				"TX_",
+				"TX_NEXT_STATE"
+			],
+			[
+				"rx",
+				"rx_process_engine"
+			],
+			[
+				"RX_",
+				"RX_NEXT_STATE"
+			],
+			[
+				"NATU",
+				"natural"
+			],
+			[
+				"PO",
+				"POT2_s"
+			],
+			[
+				"B",
+				"B_ACC_v"
+			],
+			[
+				"state",
+				"state_v"
+			],
+			[
+				"S",
+				"SET_TS"
+			],
+			[
+				"WOR",
+				"WORD_SIZE"
+			],
+			[
+				"WO",
+				"WORD_SIZE"
+			],
+			[
+				"CLK",
+				"CLK"
+			],
+			[
+				"CL",
+				"CLK"
+			],
+			[
+				"mem",
+				"memoryControlAccessNoStateMachine"
+			],
+			[
+				"HAL",
+				"HALT_PROC"
+			],
+			[
+				"nu",
+				"NUM_PAR"
+			],
+			[
+				"num_c",
+				"NUM_CH-1"
+			],
+			[
+				"FIN",
+				"find_coef_value"
+			],
+			[
+				"inf",
+				"inf_loop_pot_raia"
+			],
+			[
+				"_MSG",
+				"_MSG_SIZE_TMP"
+			],
+			[
+				"_CMD",
+				"_CMD_BUF_SIZE"
+			],
+			[
+				"th",
+				"threshold"
+			],
+			[
+				"SU",
+				"sub_acumulators"
+			],
+			[
+				"if_",
+				"test_if_continous_tone"
+			],
+			[
+				"_c",
+				"_CMD_BUFFER"
+			],
+			[
+				"_C",
+				"_CMD_BUF_SIZE"
+			],
+			[
+				"CMD_",
+				"cmd_00"
+			],
+			[
+				"A",
+				"A"
+			],
+			[
+				"MUL",
+				"mul_and_rtt_r15"
+			],
+			[
+				"RTT",
+				"mul_and_rtt_r15"
+			],
+			[
+				"INC",
+				"inc_txch"
+			],
+			[
+				"SAMPLE",
+				"sample_generate_process"
+			],
+			[
+				"HIGH",
+				"high_multiplier"
+			],
+			[
+				"_T",
+				"_temp"
+			],
+			[
+				"cmd",
+				"cmd_00"
+			],
+			[
+				"HIG",
+				"high_multiplier"
+			],
+			[
+				"LOW",
+				"low_multiplier"
+			],
+			[
+				"atenu",
+				"atenuation_p"
+			],
+			[
+				"CONF",
+				"conf_tone"
+			],
+			[
+				"_",
+				"_ID_DET_PABX_DIAL"
+			],
+			[
+				"_TI",
+				"_TIME_OUT_PAUSE"
+			],
+			[
+				"CA",
+				"calculate"
+			],
+			[
+				"POT",
+				"pot_tom"
+			],
+			[
+				"CHK",
+				"chk_id"
+			],
+			[
+				"_H",
+				"_HINT_FLAG__ORIG_1"
+			],
+			[
+				"PA",
+				"pabx_tone_init"
+			],
+			[
+				"BU",
+				"busy_tone_init"
+			],
+			[
+				"BUSY",
+				"_ID_DET_BUSY"
+			],
+			[
+				"SPC",
+				"spec_tone_init"
+			],
+			[
+				"FA",
+				"fax_tone_init"
+			],
+			[
+				"FAX",
+				"_ID_DET_FAX"
+			],
+			[
+				"memor",
+				"memory_replace"
+			],
+			[
+				"UN",
+				"unsignedy"
+			],
+			[
+				"POT_RA",
+				"pot_raia_abs"
+			],
+			[
+				"pot_ra",
+				"pot_raia_abs"
+			],
+			[
+				"ACCL",
+				"ACCL"
+			],
+			[
+				"POT_",
+				"pot_raia_pos"
+			],
+			[
+				"ACCH",
+				"acch"
+			],
+			[
+				"GO",
+				"goertAlgorithm"
+			],
+			[
+				"MY",
+				"MYKX"
+			],
+			[
+				"AU",
+				"aux"
+			],
+			[
+				"CH",
+				"chk_tone_level"
+			],
+			[
+				"ts_",
+				"ts_in_param_temp"
+			],
+			[
+				"COUN",
+				"counterChannel_temp"
+			],
+			[
+				"TS_IN",
+				"ts_in_param_temp"
+			],
+			[
+				"COU",
+				"counterChannel_temp"
+			],
+			[
+				"TS_",
+				"ts_in_param_temp"
+			],
+			[
+				"POR",
+				"port"
+			],
+			[
+				"MIN",
+				"min_pulse"
+			],
+			[
+				"TIME",
+				"timeSlot_free"
+			],
+			[
+				"end",
+				"end_test"
+			],
+			[
+				"TIMS",
+				"timeSlot_free"
+			],
+			[
+				"comm",
+				"commandId"
+			],
+			[
+				"COMM",
+				"commandId"
+			],
+			[
+				"timeS",
+				"timeSlot_free"
+			],
+			[
+				"cMD",
+				"CmdId_TSSource"
+			],
+			[
+				"cm",
+				"CmdId_TSSource"
+			],
+			[
+				"Y",
+				"y_timeSlot"
+			],
+			[
+				"_B",
+				"_in_buf2"
+			],
+			[
+				"ADD",
+				"address_rx_buffer"
+			],
+			[
+				"TIM",
+				"timeSlot_free"
+			],
+			[
+				"PORT_",
+				"port_index"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "tex/FolhaAprovacao.tex",
+			"settings":
+			{
+				"buffer_size": 1218,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ufcstyle.sty",
+			"settings":
+			{
+				"buffer_size": 4251,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tex/FolhaRosto.tex",
+			"settings":
+			{
+				"buffer_size": 2795,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tex/Introducao.tex",
+			"settings":
+			{
+				"buffer_size": 4770,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "monografia.log",
+			"settings":
+			{
+				"buffer_size": 53162,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "tex/fundamentacaoTeorica.tex",
+			"settings":
+			{
+				"buffer_size": 10060,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tex/Resultados.tex",
+			"settings":
+			{
+				"buffer_size": 17408,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tex/refs.bib",
+			"settings":
+			{
+				"buffer_size": 5561,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Videos/HouseOfCards/House.of.Cards.2013.S04E02.720p.WEBRip.X264-DEFLATE[ettv]/House.of.Cards.2013.S04E02.720p.WEBRip.X264-DEFLATE.srt",
+		"/D/Google Drive/tcc/tcc4/bibliografia.bib",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/latex/monografia.tex",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/latex/tex/ParteExterna.tex",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/latex/tex/Agradecimento.tex",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/latex/tex/Introducao.tex",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/latex/tex/fundamentacaoTeorica.tex",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/latex/tex/Desenvolvimento.tex",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/latex/tex/Resultados.tex",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/latex/tex/Conclusao.tex",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/latex/ufcstyle.sty",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/latex/tex/FolhaAprovacao.tex",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/latex/tex/FolhaRosto.tex",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/latex/tex/ResumoLinguaVernacula.tex",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/latex/tex/Referencias.tex",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/latex/tex/refs.bib",
+		"/F/atmel/dft_timing.c",
+		"/F/atmel/fft.c",
+		"/F/atmel/dft_vsound.h",
+		"/F/atmel/fft_bib.c",
+		"/F/atmel/fft_bib.h",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/latex/tex/ResumoLinguaEstrangeira.tex",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/latex/tex/fundamentacaoTeorica.log",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/latex/tex/Introducao.log",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/latex/tex/ParteInterna.tex",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/latex/monografia.bbl",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/latex/monografia.aux",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/latex/tex/PosTexto.tex",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/latex/tex/Sumario.tex",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/resultadoSinteseIse.txt",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/generateTone/main.c",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/simulation_result.txt",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/in_files/fileParams_text.txt",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/latex/tex/PreTexto.tex",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/in_files/fileParams.bin",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/validateSim.bat",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/hex2wav.bat",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/hex2wav.pl",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/generateTone/lib.c",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/latex/monografia.pdf",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/latex/tcc.sublime-workspace",
+		"/C/Users/Tiago Gomes/Desktop/metodologia.tex",
+		"/C/Users/Tiago Gomes/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/latex/tex/ListaIlustracoes.tex",
+		"/C/Users/Tiago Gomes/Desktop/tccAdria/tcc4/main.tex",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/latex/test1/monografia.tex",
+		"/C/Users/Tiago Gomes/Desktop/tccAdria/tcc4/main.log",
+		"/C/Users/Tiago Gomes/Desktop/tccAdria/tcc4/datetimepor.sty",
+		"/C/Users/Tiago Gomes/Desktop/template-latex-ufc-develop/tex/Dedicatoria.tex",
+		"/C/Users/Tiago Gomes/Desktop/template-latex-ufc-develop/ufcstyle.sty",
+		"/C/Users/Tiago Gomes/Desktop/template-latex-ufc-develop/monografia.tex",
+		"/C/Users/Tiago Gomes/Desktop/template-latex-ufc-develop/tex/ParteExterna.tex",
+		"/C/Users/Tiago Gomes/Desktop/template-latex-ufc-develop/tex/PreTexto.tex",
+		"/C/Users/Tiago Gomes/Desktop/tccAdria/tcc4/mfirstuc.sty",
+		"/C/Users/Tiago Gomes/Desktop/template-latex-ufc-develop/tex/Errata.tex",
+		"/C/Users/Tiago Gomes/Desktop/template-latex-ufc-develop/tex/FolhaRosto.tex",
+		"/C/Users/Tiago Gomes/Desktop/template-latex-ufc-develop/tex/Capa.tex",
+		"/C/Users/Tiago Gomes/workspace/fj21-jdbc/.classpath",
+		"/C/mysql-connector-java-5.1.37/src/testsuite/BaseStatementInterceptor.java",
+		"/C/Users/Tiago Gomes/Desktop/Modelo01/01_Introducao/introducao.tex",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/generateTone/copyBin.bat",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/files/toneDetectorPackage.vhd",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/generateTone.bat",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/!executa_isim.bat",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/files/topModule_toneDetector.vhd",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/files/signalProcessor.vhd",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/files/messageHandler.vhd",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/isim.cmd",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/executa_isim.bat",
+		"/C/Users/Tiago Gomes/Desktop/Tiago/Tiago",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/files/toneDetector.vhd",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/files/memoryControlAccess.vhd",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/files/commandHandler.vhd",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/files/confTone_tsPram_memory.vhd",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/files/tdmSwitch.vhd",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/files/cmd_buffer.vhd",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/files/readFile.vhd",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/files/messageHandler_tb.vhd",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/files/tdmSwitch_tb.vhd",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/files/anotações",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/files/command_tb.vhd",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/in_files/file_7.hex",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/in_files/file_3.hex",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/in_files/file_2.hex",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/in_files/file_1.hex",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/in_files/file_5.hex",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/in_files/file_4.hex",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/in_files/file_6.hex",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/in_files/file_0.hex",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/in_files/file_2.hex.wav",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/in_files/file_7.hex.wav",
+		"/C/Users/Tiago Gomes/Desktop/ioVhdlTest/numbers.bin",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/in_files/fileParams.txt",
+		"/C/Users/Tiago Gomes/Desktop/ioVhdlTest/readAndWrite.vhd",
+		"/C/Users/Tiago Gomes/Desktop/ioVhdlTest/top.vhd",
+		"/C/Users/Tiago Gomes/Desktop/ioVhdlTest/memory.vhd",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/generateTone/lib.h",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/generateTone/in_files/fileParams_text.txt",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/generateTone/in_files/fileParams.txt",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/generateTone/files/fileParams.txt",
+		"/C/cygwin64/Cygwin.bat",
+		"/C/Users/Tiago Gomes/Desktop/cepCondPrimeira.txt",
+		"/C/cygwin64/home/Tiago Gomes/.bashrc",
+		"/C/cygwin64/home/Tiago Gomes/.bash_profile",
+		"/C/cygwin64/home/Tiago Gomes/.bash_history",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/files/toneDetectorValidate_tb.vhd",
+		"/C/Users/Tiago Gomes/Desktop/Nova pasta/toneDetector/files/signalProcessor.vhd",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/generateTone/perlAudioCreate/hex2wav.pl",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/generateTone/files/file_118.hex",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/testeGen/main.c",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/testeGen/lib.h",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/testeGen/lib.c",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/testeGen/files/fileParams.txt",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/testeGen/files/file_57.hex",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/testeGen/files/file_9.hex",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/testeGen/copyBin.bat",
+		"/D/projetoLesc/projetoUnify/svn/trunk/src/amostras/hex2wav.pl",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/testeGen/hex2wav.pl",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/testeGen/files/file_4.hex",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/testeGen/files/file_0.hex",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/testeGen/fileParams.txt",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/testeGen/file_0.hex",
+		"/D/projetoLesc/projetoUnify/svn/trunk/src/amostras/hex2wav.jpg",
+		"/C/Users/Tiago Gomes/OneDrive/Tcc/toneDetector/testeGen/file_37.hex",
+		"/D/ufc/1Ano/Progamação para engenharia/Praticas/Pratica_10+ArvoreBinaria/main.c",
+		"/D/ufc/1Ano/Progamação para engenharia/Praticas/Pratica_10+ArvoreBinaria/ArvBin.h",
+		"/D/ufc/1Ano/Progamação para engenharia/Praticas/Pratica_10+ArvoreBinaria/ArvBin.c",
+		"/D/DialTone_DSPXsimulation/io/tom-discagem.hex"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<open folders>",
+			"<open folders>,*.s",
+			"<open folders>",
+			"",
+			"<open folders>,-*.asm,-*.sublime-workspace",
+			"<open folders>,-*.s,-*.sublime-workspace",
+			"<open folders>,-*.asm,-*.sublime-workspace",
+			"<open folders>,-*.s,-*.sublime-workspace",
+			"<open folders>,-*.asm,-*.sublime-workspace",
+			"<open folders>,-*.s,-*.sublime-workspace",
+			"<open folders>,-*.asm,-*.sublime-workspace",
+			"<open folders>,-*.s,-*.sublime-workspace",
+			"<open folders>,-*.asm,-*.sublime-workspace",
+			"<open folders>,-*.asn,-*.sublime-workspace",
+			"<open folders>,-*.s,-*.sublime-workspace",
+			"<open folders>,-*.asm,-*.sublime-workspace",
+			"<open folders>,-*.s,-*.sublime-workspace",
+			"<open folders>,-*.asm,-*.sublime-workspace",
+			"<open folders>,-*.s,-*.sublime-workspace",
+			"<open folders>,-*.asm,-*.sublime-workspace",
+			"<open folders>,-*.s,-*.sublime-workspace",
+			"<open folders>,-*.asm,-*.sublime-workspace",
+			"<open folders>,-*.s,-*.sublime-workspace",
+			"<open folders>,-*.ams,-*.sublime-workspace",
+			"<open folders>,-*.S,-*.sublime-workspace",
+			"<open folders>,-*.asm,-*.sublime-workspace",
+			"<open folders>,-*.s,-*.sublime-workspace",
+			"<open folders>,-*.asm,-*.sublime-workspace",
+			"<open folders>,-*.as,-*.sublime-workspace",
+			"<open folders>,-*.s,-*.sublime-workspace",
+			"<open folders>,-*.c,-*.h,-*.asm,-*.sublime-workspace",
+			"<open folders>,-*.asm,-*.sublime-workspace",
+			"<open folders>,-*.asm",
+			"C:\\Users\\Tiago Gomes\\projetoUnify\\Source,-*.asm",
+			"C:\\Users\\Tiago Gomes\\projetoUnify\\Source -*.asm",
+			"C:\\Users\\Tiago Gomes\\projetoUnify\\Source",
+			"<open files>",
+			"C:\\Users\\Tiago Gomes\\projetoUnify\\Source",
+			"<open files>",
+			"D:\\DSPXsimulation\\sw",
+			"<open files>",
+			"C:\\Users\\Tiago Gomes\\projetoUnify\\svn\\trunk\\src\\CSS\\DetTONS",
+			"C:\\Users\\Tiago Gomes\\projetoUnify\\svn\\trunk\\document\\datasheet\\HPI",
+			"C:\\Users\\Tiago Gomes\\projetoUnify\\Source",
+			"<open files>,C:\\Users\\Tiago Gomes\\projetoUnify\\Source",
+			"<open files>",
+			"sw.s",
+			"",
+			"C:\\Users\\Tiago Gomes\\projetoUnify\\svn\\trunk\\document\\datasheet\\HPI,C:\\Users\\Tiago Gomes\\projetoUnify\\Source",
+			"C:\\Users\\Tiago Gomes\\projetoUnify\\svn\\trunk\\document\\datasheet\\HPI",
+			"<open folders>",
+			"C:\\Users\\Tiago Gomes\\projetoUnify\\Source",
+			"<open folders>",
+			"C:\\Users\\Tiago Gomes\\projetoUnify\\svn\\trunk\\document\\datasheet\\HPI",
+			"<open folders>",
+			"C:\\Users\\Tiago Gomes\\projetoUnify\\svn\\trunk\\src\\CSS\\DetTONS",
+			"C:\\Users\\Tiago Gomes\\projetoUnify\\svn\\trunk\\document\\datasheet\\HPI",
+			"C:\\Users\\Tiago Gomes\\projetoUnify\\svn\\trunk\\src\\CSS\\DetTONS",
+			"<open folders>",
+			"",
+			"C:\\Users\\Tiago Gomes\\projetoUnify\\svn\\trunk\\document\\datasheet\\HPI",
+			"HPI",
+			"",
+			"<open folders>",
+			"C:\\Users\\Tiago Gomes\\projetoUnify\\Source",
+			"<open files>,<open folders>",
+			"<open files>",
+			"<open folders>,-*.sublime-workspace",
+			"<open folders>",
+			"C:\\Users\\Tiago Gomes\\projetoUnify\\svn\\trunk\\src\\CSS\\DetTONS",
+			"<open folders>",
+			"<open files>",
+			"C:\\Users\\Tiago Gomes\\projetoUnify\\Source",
+			"C:\\Users\\Tiago Gomes\\projetoUnify\\svn\\trunk\\src\\Texas TMS320VC5",
+			"C:\\Users\\Tiago Gomes\\projetoUnify\\svn\\trunk\\src\\Texas TMS320VC5502",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"&",
+			"Journal",
+			"&",
+			"alguma color",
+			"imprimir",
+			"imprimirautor",
+			"imprimirtipotrabalho",
+			"assinatura",
+			"imprimirorientador",
+			"coorientador",
+			"Tabela",
+			"hum",
+			"goerzel",
+			"if",
+			"se",
+			"if",
+			"seções",
+			"seção",
+			"figu",
+			"seç",
+			"seções",
+			"seção",
+			"figura",
+			"Figura",
+			"Fig.",
+			"o qual faz o reset dos sinais internos relativos a transmissão de mensagem",
+			"o qual faz o reset dos sinais internos relativos a transmissão de mensagem ",
+			"Existêm ",
+			"também",
+			"identitifcar",
+			"pertecentes",
+			"constuída ",
+			"algorítmo",
+			"requição",
+			"orientador",
+			"orientador:",
+			"orientador",
+			"diploma diploma",
+			" \n",
+			"  ",
+			"\\cite{}",
+			"bibliographystyle",
+			"opcoesdaufc",
+			"aaaa",
+			"bibliography",
+			"Referencias",
+			"	\\subfile{tex/ParteInterna}\nReferencias",
+			"atte",
+			"%\\",
+			"txStateMachineSection",
+			"rxStateMachineSection",
+			"\\item",
+			"item",
+			"hardwareStateHALTPROCESSOR",
+			"hardwareStateNEXTPORT",
+			"hardwareStateSENDMESSAGE",
+			"hardwareStateSETTS",
+			"hardwareStateVERIFICATION",
+			"hardwareStatePOWERCOEFF",
+			"hardwareStateGOERTZELCALC",
+			"hardwareStatePROCESSINGTS",
+			"hardwareStateGETTS",
+			"hardwareStateS0",
+			"dtState3Section",
+			"dtState1Section",
+			"dtState2Section",
+			"dtState0Section",
+			"dtState2Section",
+			"dtState1Section",
+			"dtState0Section",
+			"commandHandlerSection",
+			"setsecheadstyle",
+			"listoffigures",
+			"img",
+			"monot",
+			"125",
+			" ",
+			"table",
+			"MHz",
+			"memory",
+			"fe",
+			"c8",
+			"fe",
+			"cf",
+			"a0",
+			" \n",
+			".\n",
+			"e",
+			"usepackage",
+			"ffff",
+			"dtState0Sectiont",
+			"goertzel",
+			"_STATE",
+			"Handle",
+			":",
+			"Devido ao fato",
+			"orientador",
+			"parameters",
+			"75",
+			"*",
+			"listoffigures",
+			"sumario",
+			"sumário",
+			"rx",
+			"break",
+			"line",
+			"math",
+			"graphicx",
+			"5",
+			"sumário",
+			"newcommand",
+			"renewcommand",
+			"newcommand",
+			"NoAbre",
+			"NoAbrevending",
+			"todosOpcionais",
+			"opcoesdaufc",
+			"autor",
+			"imprimirinstituicao",
+			"1500",
+			" ",
+			"0003",
+			" ",
+			"fa",
+			"SEND_MSG",
+			"counter_of_samples_v",
+			"VERIFICATION",
+			"SEND_MSG"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"requisição",
+			"NEW_RAM__CMD_BUFFER",
+			"AR0",
+			"AR7",
+			"dsp_rls_ts_func",
+			"AR4",
+			"detect",
+			"AR7",
+			"inc_channel",
+			"_TS_PARAM",
+			"fill_struct",
+			"B",
+			"208",
+			"207",
+			"206",
+			"205",
+			"204",
+			"203",
+			"202",
+			"201",
+			"7",
+			"200",
+			"199",
+			"198",
+			"197",
+			"196",
+			"195",
+			"194",
+			"193",
+			"6",
+			"192",
+			"191",
+			"190",
+			"189",
+			"188",
+			"187",
+			"186",
+			"185",
+			"184",
+			"183",
+			"182",
+			"181",
+			"180",
+			"179",
+			"178",
+			"177",
+			"176",
+			"175",
+			"174",
+			"173",
+			"172",
+			"171",
+			"170",
+			"169",
+			"168",
+			"167",
+			"166",
+			"165",
+			"164",
+			"163",
+			"162",
+			"161",
+			"160",
+			"159",
+			"158",
+			"157",
+			"156",
+			"155",
+			"154",
+			"153",
+			"xxx",
+			"!!CHANGE!!",
+			"",
+			"51",
+			"50",
+			"49",
+			"48",
+			"47",
+			"46",
+			"45",
+			"107",
+			"99",
+			"91",
+			"83",
+			"75",
+			"106",
+			"406",
+			"98",
+			"90",
+			"82",
+			"74",
+			"105",
+			"97",
+			"89",
+			"81",
+			"73",
+			"104",
+			"96",
+			"88",
+			"80",
+			"72",
+			"103",
+			"95",
+			"87",
+			"79",
+			"71",
+			"102",
+			"94",
+			"86",
+			"78",
+			"70",
+			"101",
+			"93",
+			"85",
+			"77",
+			"69",
+			"100",
+			"92",
+			"84",
+			"76",
+			"68",
+			"59",
+			"43690",
+			"pabx_tone_detect",
+			"pabx_tone_set",
+			"busy_tone_set",
+			"spec_tone_set",
+			"fax_tone_set"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "tex/FolhaAprovacao.tex",
+					"settings":
+					{
+						"buffer_size": 1218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1071,
+								1071
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 117.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ufcstyle.sty",
+					"settings":
+					{
+						"buffer_size": 4251,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2498,
+								2498
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/TeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 468.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "tex/FolhaRosto.tex",
+					"settings":
+					{
+						"buffer_size": 2795,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2777,
+								2777
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 624.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "tex/Introducao.tex",
+					"settings":
+					{
+						"buffer_size": 4770,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3169,
+								3169
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 351.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "monografia.log",
+					"settings":
+					{
+						"buffer_size": 53162,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX Log.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 18602.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "tex/fundamentacaoTeorica.tex",
+					"settings":
+					{
+						"buffer_size": 10060,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6892,
+								6892
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1443.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "tex/Resultados.tex",
+					"settings":
+					{
+						"buffer_size": 17408,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5886,
+								5886
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 780.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 7,
+					"file": "tex/refs.bib",
+					"settings":
+					{
+						"buffer_size": 5561,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1634,
+								1643
+							],
+							[
+								2676,
+								2685
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/Bibtex.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 585.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.684911242604,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 171.0,
+	"status_bar_visible": true
+}

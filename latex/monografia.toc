@@ -1,0 +1,46 @@
+\changetocdepth {4}
+\select@language {brazil}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introdu\IeC {\c c}\IeC {\~a}o}}{15}{chapter.1}
+\contentsline {section}{\numberline {1.1}Motiva\IeC {\c c}\IeC {\~a}o}{15}{section.1.1}
+\contentsline {section}{\numberline {1.2}Objetivos}{16}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Objetivos Gerais}{16}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Objetivos Espec\IeC {\'\i }ficos}{16}{subsection.1.2.2}
+\contentsline {section}{\numberline {1.3}Organiza\IeC {\c c}\IeC {\~a}o do trabalho}{16}{section.1.3}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Fundamenta\IeC {\c c}\IeC {\~a}o Te\IeC {\'o}rica}}{17}{chapter.2}
+\contentsline {section}{\numberline {2.1}Transformada de Fourier}{17}{section.2.1}
+\contentsline {section}{\numberline {2.2}Transformada Discreta de Fourier}{19}{section.2.2}
+\contentsline {section}{\numberline {2.3}Algoritmo de Goertzel}{19}{section.2.3}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Desenvolvimento}}{23}{chapter.3}
+\contentsline {section}{\numberline {3.1}Metodologia de Desenvolvimento}{23}{section.3.1}
+\contentsline {section}{\numberline {3.2}Ambiente de Desenvolvimento}{23}{section.3.2}
+\contentsline {section}{\numberline {3.3}Par\IeC {\^a}metros da Detec\IeC {\c c}\IeC {\~a}o}{23}{section.3.3}
+\contentsline {section}{\numberline {3.4}Desenvolvimento do Core}{25}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Top Module}{25}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Tone Detector}{25}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Tratamento dos Comandos}{26}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}Controle de Acesso \IeC {\`a} Mem\IeC {\'o}ria}{29}{subsection.3.4.4}
+\contentsline {subsection}{\numberline {3.4.5}Mem\IeC {\'o}ria}{31}{subsection.3.4.5}
+\contentsline {subsection}{\numberline {3.4.6}Processador de Sinal}{33}{subsection.3.4.6}
+\contentsline {subsubsection}{\numberline {3.4.6.1}M\IeC {\'a}quina de Estados da Detec\IeC {\c c}\IeC {\~a}o}{34}{subsubsection.3.4.6.1}
+\contentsline {subsubsection}{\numberline {3.4.6.2}M\IeC {\'a}quina de Estados do Hardware}{38}{subsubsection.3.4.6.2}
+\contentsline {subsection}{\numberline {3.4.7}Tratamento das Mensagens}{43}{subsection.3.4.7}
+\contentsline {subsection}{\numberline {3.4.8}Unidade de Testes}{47}{subsection.3.4.8}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Resultados}}{49}{chapter.4}
+\contentsline {section}{\numberline {4.1}Resultados da S\IeC {\'\i }ntese}{49}{section.4.1}
+\contentsline {section}{\numberline {4.2}An\IeC {\'a}lise dos tempos de processamento}{50}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Compara\IeC {\c c}\IeC {\~a}o de desempenho temporal}{52}{subsection.4.2.1}
+\contentsline {section}{\numberline {4.3}Resultado das simula\IeC {\c c}\IeC {\~o}es}{53}{section.4.3}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Conclus\IeC {\~a}o}}{55}{chapter.5}
+\contentsline {section}{\numberline {5.1}Trabalhos Futuros}{55}{section.5.1}
+\vspace {\cftbeforechapterskip }
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{\uppercase {Refer\^encias}}{57}{section*.24}

@@ -1,0 +1,73 @@
+
+
+
+
+
+	RST												: in std_logic;
+	CLK												: in std_logic;
+
+	CLK_8KHz									: in std_logic;
+
+-- Entrada dos Frames
+	RX_BUFFER									: in ARRAY_NUMCH_PCMTYPE;
+
+-- Comunicação com a memória
+	DATA_MEM_OUT							: out unsigned (WORD_SIZE-1 downto 0);
+	DATA_MEM_IN								: in unsigned (WORD_SIZE-1 downto 0);
+	ADDRESS_MEM								: out integer range 0 to TS_IN_PARAM_SIZE-1;
+	WR_MEM										: out std_logic;	
+
+	HALT											: out std_logic;
+	
+-- Comando para dar release em um timeslot
+	RLS_TIME_SLOT_PROC				: out std_logic;
+	RLS_TIME_SLOT_INDEX_PROC	: out integer range 0 to NUM_CH-1;
+	RLS_TIME_SLOT_ACK_PROC		: in std_logic;	
+
+	MSG_DATA									: out unsigned (WORD_SIZE-1 downto 0);
+	MSG_TX										: out std_logic;
+	MSG_ACK_TX								: in std_logic
+
+
+
+
+	state_v							 	:= ts_param_buf_s(0)(3 downto 0);
+	flag_msg_sent_v			 	:= ts_param_buf_s(0)(7 downto 4);
+	counter_of_samples_v  := ts_param_buf_s(0)(15 downto 8);
+	min_pulse_v					 	:= ts_param_buf_s(1)(7 downto 0);
+	max_pulse_v					 	:= ts_param_buf_s(1)(15 downto 8);
+	min_pause_v					 	:= ts_param_buf_s(2)(7 downto 0);
+	max_pause_v					 	:= ts_param_buf_s(2)(15 downto 8);
+	cadence_v						 	:= ts_param_buf_s(3)(3 downto 0);
+	cnt_cadence_v				 	:= ts_param_buf_s(3)(7 downto 4);
+	attenuation_v				 	:= ts_param_buf_s(3)(15 downto 8);
+	threshold_v					 	:= ts_param_buf_s(4)(15 downto 0);
+	coeff1_v							:= ts_param_buf_s(5)(15 downto 0);
+	coeff2_v							:= ts_param_buf_s(6)(15 downto 0);
+	sample_1_coeff_1_v		:= ts_param_buf_s(7)(15 downto 0);
+	sample_2_coeff_1_v		:= ts_param_buf_s(8)(15 downto 0);
+	sample_1_coeff_2_v		:= ts_param_buf_s(9)(15 downto 0);
+	sample_2_coeff_2_v		:= ts_param_buf_s(10)(15 downto 0);
+	cnt_pause_v					 	:= ts_param_buf_s(11)(7 downto 0);
+	cnt_pulse_v					 	:= ts_param_buf_s(11)(15 downto 8);
+
+
+
+
+
+
+
+
+		OUT_DATA_MEM					<= ;
+													<= IN_DATA_MEM;
+		ADDRESS_MEM						<= ;
+		WR_MEM								<= ;
+		RLS_TIME_SLOT					<= ;
+		RLS_TIME_SLOT_INDEX		<= ;
+													<= RLS_TIME_SLOT_ACK;
+
+
+
+
+
+	
